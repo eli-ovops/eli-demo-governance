@@ -1,0 +1,13 @@
+/Users/USER/.codex/sessions/2026/09/09/rollout-2026-09-09T13-29-14-01a084a4-499f-78a0-872a-9bae7d0a27ef.jsonl
+/Users/USER/.codex/sessions/2026/09/08/rollout-2026-09-08T08-54-18-01a07e82-3a5a-79f1-9814-bbb74b012171.jsonl
+/Users/USER/.codex/sessions/2026/09/01/rollout-2026-09-01T16-30-13-01a05c17-1b19-7ef3-8738-c51d7fead7f5.jsonl
+/Users/USER/.codex/sessions/2026/08/21/rollout-2026-08-21T13-54-58-01a022e3-0526-75e2-8762-f71e118a8965.jsonl
+/Users/USER/.codex/sessions/2026/08/21/rollout-2026-08-21T14-56-54-01a022e3-0526-75e2-8762-f71e118a8965_01a0231b-b910-74d3-9d6d-2c41e9a2cad6.jsonl
+/Users/USER/.codex/sessions/2026/08/21/rollout-2026-08-21T14-09-44-01a022e3-0526-75e2-8762-f71e118a8965_01a022f0-8908-7f32-93bc-a7d79f41e09a.jsonl
+/Users/USER/.codex/sessions/2026/08/23/rollout-2026-08-23T09-30-22-01a022e3-0526-75e2-8762-f71e118a8965_01a02c3d-7e49-7383-8e29-904c5517164f.jsonl
+/Users/USER/.codex/sessions/2026/08/23/rollout-2026-08-23T22-04-15-01a02eef-af63-75e2-a436-fad053c41517.jsonl
+/Users/USER/.codex/sessions/2026/08/23/rollout-2026-08-23T18-50-20-01a02e3e-2680-7dd3-a26b-8f76483806ec.jsonl
+/Users/USER/.codex/archived_sessions/rollout-2026-09-01T23-01-12-01a05d7d-102d-7e33-86b8-2cb928a68870.jsonl
+/Users/USER/.codex/archived_sessions/rollout-2026-08-24T13-03-27-01a03226-ef43-74b2-9edb-3db136756e3d.jsonl
+/Users/USER/.codex/archived_sessions/rollout-2026-09-09T22-06-13-01a0867d-99dd-70f2-ac2d-d433c7ddce5a.jsonl
+/Users/USER/.codex/archived_sessions/rollout-2026-07-09T21-38-35-019f471a-05e3-72e3-b87c-239bf6db9128.jsonl

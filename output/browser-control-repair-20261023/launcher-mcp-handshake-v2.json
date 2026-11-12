@@ -1,0 +1,14 @@
+{
+  "scope": "standalone MCP initialize/tools-list only; no browser/UI tool invoked",
+  "initialize_ms": 302,
+  "protocol": "2025-06-18",
+  "tools": [
+    "js",
+    "js_add_node_module_dir",
+    "js_reset",
+    "turn_ended"
+  ],
+  "passed": true,
+  "process_exited": true,
+  "stderr_bytes": 0
+}

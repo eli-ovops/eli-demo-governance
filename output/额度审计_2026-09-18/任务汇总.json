@@ -1,0 +1,637 @@
+[
+  {
+    "id": "01a09a96-7df8-7643-a823-f4dbfa77200f",
+    "title": "Pocket Rove 邮件",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 361,
+    "turns": 67,
+    "tools_in_file": 286,
+    "input_tokens": 66852083,
+    "cached_input_tokens": 62630016,
+    "output_tokens": 91023,
+    "reasoning_output_tokens": 4240,
+    "total_tokens": 66943106,
+    "uncached_input": 4222067,
+    "avg_context": 185186,
+    "max_context": 248376,
+    "model_effort": {
+      "gpt-6-astra/medium": 79,
+      "gpt-6-astra/high": 161,
+      "gpt-6-astra/low": 121
+    }
+  },
+  {
+    "id": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+    "title": "Pocket Rove PMO｜1.8.0 PRD执行",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 1379,
+    "turns": 96,
+    "tools_in_file": 1271,
+    "input_tokens": 208332036,
+    "cached_input_tokens": 204239744,
+    "output_tokens": 466926,
+    "reasoning_output_tokens": 83333,
+    "total_tokens": 208798962,
+    "uncached_input": 4092292,
+    "avg_context": 151075,
+    "max_context": 248925,
+    "model_effort": {
+      "gpt-6-astra/medium": 1373,
+      "gpt-6-astra/max": 6
+    }
+  },
+  {
+    "id": "01a08542-c7b7-7780-be54-bc33294dc502",
+    "title": "00 PMO总控｜Pocket Rove 短视频",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 508,
+    "turns": 89,
+    "tools_in_file": 409,
+    "input_tokens": 89077157,
+    "cached_input_tokens": 85184384,
+    "output_tokens": 206246,
+    "reasoning_output_tokens": 36729,
+    "total_tokens": 89283403,
+    "uncached_input": 3892773,
+    "avg_context": 175349,
+    "max_context": 253093,
+    "model_effort": {
+      "gpt-6-astra/medium": 359,
+      "gpt-6-astra/ultra": 149
+    }
+  },
+  {
+    "id": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+    "title": "周易项目重启｜产品与验证负责人",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 425,
+    "turns": 23,
+    "tools_in_file": 396,
+    "input_tokens": 66842438,
+    "cached_input_tokens": 63928064,
+    "output_tokens": 272920,
+    "reasoning_output_tokens": 59739,
+    "total_tokens": 67115358,
+    "uncached_input": 2914374,
+    "avg_context": 157276,
+    "max_context": 251570,
+    "model_effort": {
+      "gpt-6-astra/medium": 222,
+      "gpt-6-astra/high": 203
+    }
+  },
+  {
+    "id": "01a0adfd-09b9-78d2-a7f6-1041a62e26db",
+    "title": "<open_design_prompt_bundle schema=\"open-design.od-next-prompt-bundle/v2\"> <open_design_core_system_prompt> <execution_boundary> <![CDATA[# Open Design execution and security bounda",
+    "cwd": "/Users/USER/Library/Application Support/Open Design/namespaces/release-stable/data/projects/4f26bdc6-82d4-403e-9d26-759a3a909a2c",
+    "calls": 104,
+    "turns": 24,
+    "tools_in_file": 74,
+    "input_tokens": 18243346,
+    "cached_input_tokens": 15770624,
+    "output_tokens": 110297,
+    "reasoning_output_tokens": 5231,
+    "total_tokens": 18353643,
+    "uncached_input": 2472722,
+    "avg_context": 175417,
+    "max_context": 315404,
+    "model_effort": {
+      "gpt-6-astra/medium": 104
+    }
+  },
+  {
+    "id": "01a0acf3-9e0c-7733-9977-bf3ed25b22c0",
+    "title": "Pocket Rove｜第二批100位UGC创作者筛选",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 1074,
+    "turns": 13,
+    "tools_in_file": 1053,
+    "input_tokens": 171682332,
+    "cached_input_tokens": 169374464,
+    "output_tokens": 301301,
+    "reasoning_output_tokens": 40042,
+    "total_tokens": 171983633,
+    "uncached_input": 2307868,
+    "avg_context": 159853,
+    "max_context": 247898,
+    "model_effort": {
+      "gpt-6-astra/medium": 1074
+    }
+  },
+  {
+    "id": "01a0add0-c73f-7673-86d2-b6185c5bb846",
+    "title": "学习 App 达标提醒｜核心验证与最小原型",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 429,
+    "turns": 36,
+    "tools_in_file": 386,
+    "input_tokens": 63394386,
+    "cached_input_tokens": 61329408,
+    "output_tokens": 183941,
+    "reasoning_output_tokens": 21572,
+    "total_tokens": 63578327,
+    "uncached_input": 2064978,
+    "avg_context": 147772,
+    "max_context": 244616,
+    "model_effort": {
+      "gpt-6-astra/medium": 233,
+      "gpt-6-astra/xhigh": 25,
+      "gpt-6-astra/low": 171
+    }
+  },
+  {
+    "id": "01a0acc0-25b5-7aa3-9620-ec3b223da1af",
+    "title": "宠物社交｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 139,
+    "turns": 53,
+    "tools_in_file": 84,
+    "input_tokens": 19684531,
+    "cached_input_tokens": 17662080,
+    "output_tokens": 109192,
+    "reasoning_output_tokens": 16767,
+    "total_tokens": 19793723,
+    "uncached_input": 2022451,
+    "avg_context": 141615,
+    "max_context": 248617,
+    "model_effort": {
+      "gpt-6-astra/medium": 95,
+      "gpt-6-astra/ultra": 44
+    }
+  },
+  {
+    "id": "01a07434-6bfc-7ac1-b589-a5fc88f2aa6a",
+    "title": "0-1 PMO总控 | App",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 75,
+    "turns": 25,
+    "tools_in_file": 47,
+    "input_tokens": 12673649,
+    "cached_input_tokens": 11341440,
+    "output_tokens": 33782,
+    "reasoning_output_tokens": 1147,
+    "total_tokens": 12707431,
+    "uncached_input": 1332209,
+    "avg_context": 168982,
+    "max_context": 242307,
+    "model_effort": {
+      "gpt-6-astra/medium": 75
+    }
+  },
+  {
+    "id": "01a07437-1907-77b1-8afb-4d15b09c95bb",
+    "title": "0-1 PMO总控 | 淼瀚洁具库存系统",
+    "cwd": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统",
+    "calls": 128,
+    "turns": 21,
+    "tools_in_file": 106,
+    "input_tokens": 19342154,
+    "cached_input_tokens": 18257152,
+    "output_tokens": 25445,
+    "reasoning_output_tokens": 1520,
+    "total_tokens": 19367599,
+    "uncached_input": 1085002,
+    "avg_context": 151111,
+    "max_context": 235031,
+    "model_effort": {
+      "gpt-6-astra/low": 128
+    }
+  },
+  {
+    "id": "01a07434-7d12-78a3-b26e-fc3b7a63b3ac",
+    "title": "0-7 PMO总控 | Serenity国内版",
+    "cwd": "/Users/USER/Documents/serenity",
+    "calls": 75,
+    "turns": 14,
+    "tools_in_file": 59,
+    "input_tokens": 11505764,
+    "cached_input_tokens": 10489344,
+    "output_tokens": 49924,
+    "reasoning_output_tokens": 6553,
+    "total_tokens": 11555688,
+    "uncached_input": 1016420,
+    "avg_context": 153410,
+    "max_context": 247563,
+    "model_effort": {
+      "gpt-6-astra/low": 75
+    }
+  },
+  {
+    "id": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+    "title": "0-14 PMO总控 | eli",
+    "cwd": "/Users/USER/Documents/eli",
+    "calls": 136,
+    "turns": 24,
+    "tools_in_file": 109,
+    "input_tokens": 21088470,
+    "cached_input_tokens": 20080640,
+    "output_tokens": 70760,
+    "reasoning_output_tokens": 8997,
+    "total_tokens": 21159230,
+    "uncached_input": 1007830,
+    "avg_context": 155062,
+    "max_context": 235196,
+    "model_effort": {
+      "gpt-6-astra/medium": 136
+    }
+  },
+  {
+    "id": "01a07462-79c1-7d63-994c-de09dac95e65",
+    "title": "创建每日主线项目情报任务",
+    "cwd": "/Users/USER/Documents/Codex/2026-09-06/successor-successor-fork-019fe922-fc7d-7f10",
+    "calls": 27,
+    "turns": 4,
+    "tools_in_file": 22,
+    "input_tokens": 3775085,
+    "cached_input_tokens": 2955136,
+    "output_tokens": 10554,
+    "reasoning_output_tokens": 376,
+    "total_tokens": 3785639,
+    "uncached_input": 819949,
+    "avg_context": 139818,
+    "max_context": 254455,
+    "model_effort": {
+      "gpt-6-astra/medium": 27
+    }
+  },
+  {
+    "id": "01a09d95-8738-76f0-8eb4-d2c6b146a1a7",
+    "title": "Pocket Rove (4)",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 84,
+    "turns": 4,
+    "tools_in_file": 79,
+    "input_tokens": 13970713,
+    "cached_input_tokens": 13372032,
+    "output_tokens": 28548,
+    "reasoning_output_tokens": 6557,
+    "total_tokens": 13999261,
+    "uncached_input": 598681,
+    "avg_context": 166318,
+    "max_context": 241745,
+    "model_effort": {
+      "gpt-6-astra/xhigh": 84
+    }
+  },
+  {
+    "id": "01a085dd-2d86-7452-9a76-53725082a7c1",
+    "title": "04 关键帧美术｜Pocket Rove",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 55,
+    "turns": 8,
+    "tools_in_file": 46,
+    "input_tokens": 6342248,
+    "cached_input_tokens": 5793152,
+    "output_tokens": 33366,
+    "reasoning_output_tokens": 1897,
+    "total_tokens": 6375614,
+    "uncached_input": 549096,
+    "avg_context": 115314,
+    "max_context": 249746,
+    "model_effort": {
+      "gpt-6-astra/medium": 55
+    }
+  },
+  {
+    "id": "01a06a24-4a0e-76a3-a589-40de1d0727d0",
+    "title": "雅思英语词根词缀教练",
+    "cwd": "/Volumes/EXTERNAL/移民",
+    "calls": 8,
+    "turns": 8,
+    "tools_in_file": 0,
+    "input_tokens": 1414002,
+    "cached_input_tokens": 874624,
+    "output_tokens": 3181,
+    "reasoning_output_tokens": 0,
+    "total_tokens": 1417183,
+    "uncached_input": 539378,
+    "avg_context": 176750,
+    "max_context": 197479,
+    "model_effort": {
+      "gpt-6-astra/low": 8
+    }
+  },
+  {
+    "id": "01a07464-11f2-7ac1-8a81-f3b7a67239ea",
+    "title": "排查 GPT 会话卡顿乱码",
+    "cwd": "/Users/USER/Documents/Codex/2026-09-06/gpt-successor-2026-09-06-fork",
+    "calls": 33,
+    "turns": 16,
+    "tools_in_file": 16,
+    "input_tokens": 5085248,
+    "cached_input_tokens": 4591488,
+    "output_tokens": 6213,
+    "reasoning_output_tokens": 58,
+    "total_tokens": 5091461,
+    "uncached_input": 493760,
+    "avg_context": 154098,
+    "max_context": 175608,
+    "model_effort": {
+      "gpt-6-astra/medium": 33
+    }
+  },
+  {
+    "id": "01a085dd-1bd7-7fa0-aae5-2535205f5959",
+    "title": "02 英文脚本｜Pocket Rove",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 19,
+    "turns": 9,
+    "tools_in_file": 10,
+    "input_tokens": 2076325,
+    "cached_input_tokens": 1628288,
+    "output_tokens": 16290,
+    "reasoning_output_tokens": 437,
+    "total_tokens": 2092615,
+    "uncached_input": 448037,
+    "avg_context": 109280,
+    "max_context": 131984,
+    "model_effort": {
+      "gpt-6-astra/medium": 19
+    }
+  },
+  {
+    "id": "01a07432-6c38-7810-8b63-4420dcda2586",
+    "title": "了解移民计划现状",
+    "cwd": "/Volumes/EXTERNAL/移民",
+    "calls": 9,
+    "turns": 2,
+    "tools_in_file": 7,
+    "input_tokens": 1891118,
+    "cached_input_tokens": 1459584,
+    "output_tokens": 2568,
+    "reasoning_output_tokens": 64,
+    "total_tokens": 1893686,
+    "uncached_input": 431534,
+    "avg_context": 210124,
+    "max_context": 231840,
+    "model_effort": {
+      "gpt-6-astra/medium": 9
+    }
+  },
+  {
+    "id": "01a085dd-2326-7693-ad4c-f3a5f4edd200",
+    "title": "03 分镜运镜｜Pocket Rove",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 48,
+    "turns": 14,
+    "tools_in_file": 32,
+    "input_tokens": 6033418,
+    "cached_input_tokens": 5613312,
+    "output_tokens": 36060,
+    "reasoning_output_tokens": 808,
+    "total_tokens": 6069478,
+    "uncached_input": 420106,
+    "avg_context": 125696,
+    "max_context": 241198,
+    "model_effort": {
+      "gpt-6-astra/medium": 48
+    }
+  },
+  {
+    "id": "01a0a8ff-3108-7c62-94f6-f3de52d0c891",
+    "title": "",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 33,
+    "turns": 13,
+    "tools_in_file": 20,
+    "input_tokens": 2593011,
+    "cached_input_tokens": 2288512,
+    "output_tokens": 10995,
+    "reasoning_output_tokens": 4116,
+    "total_tokens": 2604006,
+    "uncached_input": 304499,
+    "avg_context": 78576,
+    "max_context": 122955,
+    "model_effort": {
+      "gpt-6-astra/high": 33
+    }
+  },
+  {
+    "id": "01a085dc-ec38-7cb1-bc50-789931923812",
+    "title": "01 剧情创意｜Pocket Rove",
+    "cwd": "/Volumes/EXTERNAL/ai视频",
+    "calls": 7,
+    "turns": 2,
+    "tools_in_file": 5,
+    "input_tokens": 833637,
+    "cached_input_tokens": 583680,
+    "output_tokens": 6400,
+    "reasoning_output_tokens": 267,
+    "total_tokens": 840037,
+    "uncached_input": 249957,
+    "avg_context": 119091,
+    "max_context": 132727,
+    "model_effort": {
+      "gpt-6-astra/medium": 7
+    }
+  },
+  {
+    "id": "01a0afa5-e0b6-7bd0-8089-12ca97fda69b",
+    "title": "<open_design_prompt_bundle schema=\"open-design.od-next-prompt-bundle/v2\"> <open_design_core_system_prompt> <execution_boundary> <![CDATA[# Open Design execution and security bounda",
+    "cwd": "/Users/USER/Library/Application Support/Open Design/namespaces/release-stable/data/projects/19a5fe43-da67-4267-ae95-108cd33ba450",
+    "calls": 28,
+    "turns": 3,
+    "tools_in_file": 25,
+    "input_tokens": 3995297,
+    "cached_input_tokens": 3756544,
+    "output_tokens": 51219,
+    "reasoning_output_tokens": 3205,
+    "total_tokens": 4046516,
+    "uncached_input": 238753,
+    "avg_context": 142689,
+    "max_context": 235237,
+    "model_effort": {
+      "gpt-6-astra/medium": 28
+    }
+  },
+  {
+    "id": "01a07435-4dca-7502-87b9-61759e1de1f1",
+    "title": "0-1 PMO总控 | Skills下载治理",
+    "cwd": "/Users/USER/Documents/skills",
+    "calls": 22,
+    "turns": 4,
+    "tools_in_file": 18,
+    "input_tokens": 2533838,
+    "cached_input_tokens": 2385920,
+    "output_tokens": 14698,
+    "reasoning_output_tokens": 1149,
+    "total_tokens": 2548536,
+    "uncached_input": 147918,
+    "avg_context": 115174,
+    "max_context": 143688,
+    "model_effort": {
+      "gpt-6-astra/medium": 22
+    }
+  },
+  {
+    "id": "01a0acc0-3d71-7391-aa7f-719d208aa5c6",
+    "title": "海外二手跳蚤市场｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 17,
+    "turns": 3,
+    "tools_in_file": 14,
+    "input_tokens": 1486173,
+    "cached_input_tokens": 1339776,
+    "output_tokens": 9285,
+    "reasoning_output_tokens": 2305,
+    "total_tokens": 1495458,
+    "uncached_input": 146397,
+    "avg_context": 87422,
+    "max_context": 143467,
+    "model_effort": {
+      "gpt-6-astra/medium": 17
+    }
+  },
+  {
+    "id": "01a0a809-33ee-7d41-a2dd-7de670939981",
+    "title": "",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 70,
+    "turns": 3,
+    "tools_in_file": 67,
+    "input_tokens": 7340423,
+    "cached_input_tokens": 7194624,
+    "output_tokens": 5495,
+    "reasoning_output_tokens": 90,
+    "total_tokens": 7345918,
+    "uncached_input": 145799,
+    "avg_context": 104863,
+    "max_context": 130776,
+    "model_effort": {
+      "gpt-6-astra/medium": 70
+    }
+  },
+  {
+    "id": "01a0acc0-2c43-74c3-8062-f5708d7ca12e",
+    "title": "全游戏攻略社区｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 17,
+    "turns": 3,
+    "tools_in_file": 14,
+    "input_tokens": 1560730,
+    "cached_input_tokens": 1418112,
+    "output_tokens": 5688,
+    "reasoning_output_tokens": 521,
+    "total_tokens": 1566418,
+    "uncached_input": 142618,
+    "avg_context": 91808,
+    "max_context": 139727,
+    "model_effort": {
+      "gpt-6-astra/medium": 17
+    }
+  },
+  {
+    "id": "01a0b250-22d1-75e0-8297-1b570811082b",
+    "title": "",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 6,
+    "turns": 2,
+    "tools_in_file": 4,
+    "input_tokens": 482296,
+    "cached_input_tokens": 398080,
+    "output_tokens": 1119,
+    "reasoning_output_tokens": 14,
+    "total_tokens": 483415,
+    "uncached_input": 84216,
+    "avg_context": 80383,
+    "max_context": 83518,
+    "model_effort": {
+      "gpt-6-astra/medium": 6
+    }
+  },
+  {
+    "id": "01a080d7-e976-71a0-837a-efe785cd481d",
+    "title": "我买了一个给孩子的玩偶，但是香味很重。我感觉有问题。你 帮我 看看",
+    "cwd": "/Users/USER/Documents/Codex/2026-09-08/wo",
+    "calls": 2,
+    "turns": 1,
+    "tools_in_file": 1,
+    "input_tokens": 158854,
+    "cached_input_tokens": 74880,
+    "output_tokens": 772,
+    "reasoning_output_tokens": 24,
+    "total_tokens": 159626,
+    "uncached_input": 83974,
+    "avg_context": 79427,
+    "max_context": 83504,
+    "model_effort": {
+      "gpt-6-astra/medium": 2
+    }
+  },
+  {
+    "id": "01a0acc0-79f4-7d83-ba19-390273fcbd0e",
+    "title": "透明3D装柜模拟器｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 7,
+    "turns": 2,
+    "tools_in_file": 5,
+    "input_tokens": 444542,
+    "cached_input_tokens": 362368,
+    "output_tokens": 3011,
+    "reasoning_output_tokens": 330,
+    "total_tokens": 447553,
+    "uncached_input": 82174,
+    "avg_context": 63506,
+    "max_context": 81088,
+    "model_effort": {
+      "gpt-6-astra/medium": 7
+    }
+  },
+  {
+    "id": "01a0acc0-4de1-7e93-ab19-d582f8d9d503",
+    "title": "每日换汇比价｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 7,
+    "turns": 2,
+    "tools_in_file": 5,
+    "input_tokens": 426714,
+    "cached_input_tokens": 345472,
+    "output_tokens": 3491,
+    "reasoning_output_tokens": 430,
+    "total_tokens": 430205,
+    "uncached_input": 81242,
+    "avg_context": 60959,
+    "max_context": 80107,
+    "model_effort": {
+      "gpt-6-astra/medium": 7
+    }
+  },
+  {
+    "id": "01a0acc0-61f8-74c3-969e-aec96eb1179b",
+    "title": "单位换算工具｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 6,
+    "turns": 1,
+    "tools_in_file": 5,
+    "input_tokens": 363422,
+    "cached_input_tokens": 282752,
+    "output_tokens": 2497,
+    "reasoning_output_tokens": 58,
+    "total_tokens": 365919,
+    "uncached_input": 80670,
+    "avg_context": 60570,
+    "max_context": 79732,
+    "model_effort": {
+      "gpt-6-astra/medium": 6
+    }
+  },
+  {
+    "id": "01a0acc0-332e-77d0-9427-48cb93072fd8",
+    "title": "合同风险检查｜评分与产品讨论",
+    "cwd": "/Volumes/EXTERNAL/app",
+    "calls": 9,
+    "turns": 4,
+    "tools_in_file": 5,
+    "input_tokens": 576404,
+    "cached_input_tokens": 498304,
+    "output_tokens": 3910,
+    "reasoning_output_tokens": 202,
+    "total_tokens": 580314,
+    "uncached_input": 78100,
+    "avg_context": 64045,
+    "max_context": 76490,
+    "model_effort": {
+      "gpt-6-astra/medium": 9
+    }
+  }
+]

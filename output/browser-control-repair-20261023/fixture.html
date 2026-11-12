@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>Browser control diagnostic</title>
+<style>body{font:20px system-ui;background:#fafafa;color:#111;margin:60px;max-width:640px}button,input{font:inherit;padding:12px}output{display:block;font-size:40px;margin:20px 0}</style>
+<h1>Local browser diagnostic</h1>
+<p>This temporary page contains no accounts, personal data, external requests, or media.</p>
+<label>Test note <input id="note" placeholder="Diagnostic text"></label>
+<output id="count" aria-live="polite">0</output>
+<button id="add" type="button">Add one</button>
+<script>document.getElementById('add').addEventListener('click',()=>{const n=document.getElementById('count');n.textContent=String(Number(n.textContent)+1)});</script>
+</html>

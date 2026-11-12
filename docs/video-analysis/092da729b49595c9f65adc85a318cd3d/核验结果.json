@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-01",
+  "scope": "指定本地视频的画面字幕，本轮不处理音频",
+  "checks": {
+    "raw_json_parse": "PASS",
+    "sample_sequences": "PASS",
+    "twenty_batches_cover_all_candidates": "PASS",
+    "fragment_order_and_trace_indices": "PASS",
+    "critical_negation_conditions_numbers_retained": "PASS",
+    "interface_residue_checks": "PASS",
+    "review_images_exist": 30,
+    "all_jpeg_evidence": 89,
+    "previous_evidence_files_retained": "PASS"
+  },
+  "counts": {
+    "source_points": 8934,
+    "merged_change_records": 4075,
+    "text_candidates": 7621,
+    "read_batches": 20,
+    "final_fragments": 3048
+  },
+  "human_review": {
+    "candidate_batches_read": 20,
+    "new_images_viewed": 30,
+    "prior_images_viewed": 26,
+    "all_raw_strings_independently_manually_verified": false,
+    "continuous_video_watch": false,
+    "audio_seconds": 0
+  },
+  "limitations": [
+    "短字幕可能被采样遗漏",
+    "若干句尾和章节转场未确认",
+    "讲者未逐句归属",
+    "没有字幕逐字召回率"
+  ],
+  "complete_caption_recall": "UNKNOWN"
+}

@@ -1,0 +1,111 @@
+{
+  "actions": {
+    "未伴随可识别工具调用": {
+      "calls": 668,
+      "proxy": 20341979.40000001,
+      "input": 110051631,
+      "output": 554190,
+      "reasoning": 23882
+    },
+    "本地命令/文件/图像检查": {
+      "calls": 2445,
+      "proxy": 56398638.600000046,
+      "input": 366472827,
+      "output": 1206162,
+      "reasoning": 211138
+    },
+    "多类操作混合": {
+      "calls": 477,
+      "proxy": 11690271.600000015,
+      "input": 70566511,
+      "output": 200299,
+      "reasoning": 29747
+    },
+    "其他工具": {
+      "calls": 93,
+      "proxy": 3506369.8000000003,
+      "input": 14769374,
+      "output": 16171,
+      "reasoning": 3488
+    },
+    "浏览器/电脑操作": {
+      "calls": 1177,
+      "proxy": 22117129.0,
+      "input": 192231540,
+      "output": 105233,
+      "reasoning": 20456
+    },
+    "图像生成调用": {
+      "calls": 31,
+      "proxy": 734816.4000000003,
+      "input": 5481444,
+      "output": 10014,
+      "reasoning": 317
+    },
+    "网页检索": {
+      "calls": 222,
+      "proxy": 5558422.799999999,
+      "input": 33372943,
+      "output": 37567,
+      "reasoning": 12074
+    },
+    "任务协调": {
+      "calls": 130,
+      "proxy": 2864977.400000002,
+      "input": 20665892,
+      "output": 42075,
+      "reasoning": 5666
+    },
+    "等待/轮询": {
+      "calls": 104,
+      "proxy": 2021224.0000000002,
+      "input": 18489682,
+      "output": 5406,
+      "reasoning": 2010
+    }
+  },
+  "effort": {
+    "medium": {
+      "calls": 4139,
+      "proxy": 93677889.4000001,
+      "input": 639192653,
+      "output": 1540150,
+      "reasoning": 180456
+    },
+    "low": {
+      "calls": 503,
+      "proxy": 12577668.999999994,
+      "input": 80984603,
+      "output": 161506,
+      "reasoning": 16524
+    },
+    "high": {
+      "calls": 397,
+      "proxy": 10093656.00000001,
+      "input": 62091897,
+      "output": 242643,
+      "reasoning": 50044
+    },
+    "max": {
+      "calls": 6,
+      "proxy": 220543.8,
+      "input": 673585,
+      "output": 6298,
+      "reasoning": 4053
+    },
+    "ultra": {
+      "calls": 193,
+      "proxy": 5919533.799999996,
+      "input": 32041206,
+      "output": 161519,
+      "reasoning": 44126
+    },
+    "xhigh": {
+      "calls": 109,
+      "proxy": 2744537.0000000005,
+      "input": 17117900,
+      "output": 65001,
+      "reasoning": 13575
+    }
+  }
+}

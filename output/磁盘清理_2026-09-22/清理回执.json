@@ -1,0 +1,33 @@
+{
+  "time": "2026-09-22 14:53:30 +0800",
+  "before": {
+    "raw": "Filesystem   1024-blocks      Used Available Capacity iused    ifree %iused  Mounted on\n/dev/disk3s5   239362496 197028372   9296608    96% 2001600 92966080    2%   /System/Volumes/Data\n",
+    "available_kib": 9296608
+  },
+  "after": {
+    "raw": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 195693976  10631004    95% 2000870 106310040    2%   /System/Volumes/Data\n",
+    "available_kib": 10631004
+  },
+  "observed_free_increase_gib": 1.2725791931152344,
+  "results": [
+    {
+      "target": "A8EDAF85-D6F3-44BF-B046-5D133E61B0F8",
+      "exit_code": 0,
+      "error": ""
+    },
+    {
+      "target": "7A7E9938-64FE-4584-9CE2-5AB8CC8240D9",
+      "exit_code": 0,
+      "error": ""
+    },
+    {
+      "target": "/Users/USER/Library/Developer/Xcode/DerivedData/ModuleCache.noindex",
+      "status": "deleted"
+    }
+  ],
+  "verification": {
+    "simulators_absent": true,
+    "simulator_paths_absent": true,
+    "cache_absent": true
+  }
+}

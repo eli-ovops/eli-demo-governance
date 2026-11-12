@@ -1,0 +1,59 @@
+{
+  "measuredAt": "2026-10-23T12:33:02.339Z",
+  "proxyMode": "existing-system-proxy-in-tool-process",
+  "steps": [
+    {
+      "operation": "new-tab",
+      "elapsedMs": 673
+    },
+    {
+      "operation": "goto-iana",
+      "elapsedMs": 630
+    },
+    {
+      "operation": "domSnapshot",
+      "elapsedMs": 10847
+    },
+    {
+      "operation": "click-public-link",
+      "elapsedMs": 30381
+    },
+    {
+      "operation": "screenshot-after-link",
+      "elapsedMs": 30088,
+      "bytes": 78514
+    }
+  ],
+  "finalUrl": "https://www.iana.org/domains/reserved",
+  "samePageControl": {
+    "measuredAt": "2026-10-23T12:43:01.603Z",
+    "operation": "same-page-domSnapshot",
+    "proxyOverride": "restored-original",
+    "elapsedMs": 30102,
+    "hasArticle": true,
+    "hasReservedTitle": true
+  },
+  "samePageProxy": {
+    "measuredAt": "2026-10-23T12:43:46.694Z",
+    "operation": "same-page-domSnapshot",
+    "proxyOverride": "existing-system-proxy-applied",
+    "elapsedMs": 30104,
+    "hasArticle": true,
+    "hasReservedTitle": true
+  },
+  "proxyEliminatedLatency": false,
+  "publicClickAndScreenshotSucceeded": true,
+  "screenshot": {
+    "path": "/Users/USER/Documents/eli/output/browser-control-repair-20261023/external-control-proof.jpg",
+    "format": "JPEG",
+    "sha256": "5bc187ca5422bddd8d15f388e29dcd62d57822f74df61a1e85f2f03321fc25ab",
+    "bytes": 78514
+  },
+  "finalState": {
+    "own_diagnostic_tabs_closed": true,
+    "temporary_runtime_proxy_restored": true,
+    "temporary_local_server_listener_absent": true,
+    "permanent_proxy_repair_verified": false,
+    "remainingRootTabCount": 0
+  }
+}

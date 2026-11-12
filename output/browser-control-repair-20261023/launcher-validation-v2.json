@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-23T13:34:38.574131+00:00",
+  "scope": "launcher and auxiliary network only; not browser acceptance",
+  "launcher_check": "{\"app\": \"/Applications/ChatGPT.app\", \"version\": \"26.1016.62342\", \"official_node\": \"/Applications/ChatGPT.app/Contents/Resources/cua_node/bin/node\", \"added_keys\": [\"HTTP_PROXY\", \"HTTPS_PROXY\", \"NO_PROXY\", \"NODE_USE_ENV_PROXY\"], \"proxy_enabled\": true, \"ambient_network_disabled\": false}",
+  "official_node_version": "v24.21.0",
+  "wrapped_node_version": "v24.21.0",
+  "launch_plan": "{\"mode\": \"test\", \"app_running\": true, \"changes\": [\"CODEX_BROWSER_USE_NODE_PATH for this launch only\"], \"quits_app\": false, \"changes_system_proxy\": false, \"installs_startup_job\": false}",
+  "direct_probe": {
+    "connected": false,
+    "error": "PROBE_DEADLINE_5000MS",
+    "elapsedMs": 5014
+  },
+  "wrapped_probe": {
+    "connected": true,
+    "tlsAuthorized": true,
+    "httpStatus": 403,
+    "elapsedMs": 297
+  },
+  "offline_identity_and_argument_passthrough": {
+    "unchanged": true,
+    "args": [
+      "literal $()",
+      "a b"
+    ]
+  }
+}

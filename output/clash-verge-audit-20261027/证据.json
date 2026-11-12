@@ -1,0 +1,270 @@
+{
+  "current_status": "VERIFIED_SHORT_WINDOW",
+  "repair": {
+    "status": "VERIFIED_SHORT_WINDOW",
+    "verified_utc": "2026-10-27T05:45:37.548109+00:00",
+    "approval": "User approved minimum TUN/DNS repair and personally completed macOS authentication",
+    "root_cause": "Existing service IPC was unavailable; app fell back to unprivileged sidecar with TUN disabled",
+    "actions": [
+      "Backed up five settings files",
+      "Repaired existing service using bundled official UI installer",
+      "Enabled and persisted TUN; retained system proxy",
+      "Used application DNS interception without country locks"
+    ],
+    "runtime": {
+      "checked_utc": "2026-10-27T05:38:33.943567+00:00",
+      "settings": {
+        "enable_tun_mode": "true",
+        "enable_auto_launch": "true",
+        "enable_system_proxy": "true",
+        "enable_dns_settings": "false"
+      },
+      "files": [
+        {
+          "file": "verge.yaml",
+          "changed": true,
+          "sha256_after": "55d96b262222b78315dda7a440b0c9ae940079ef2a66cf52907fa5f72ffeb3e9"
+        },
+        {
+          "file": "config.yaml",
+          "changed": false,
+          "sha256_after": "35602a8d4e135ffa064f15d521d98dc84f3951b7f5d3cc54ee11a0a12ee813f9"
+        },
+        {
+          "file": "dns_config.yaml",
+          "changed": false,
+          "sha256_after": "0622223d8a48ff09287d8be530ebbcb6f3ea4a138329132b58e7e36cb98f4395"
+        },
+        {
+          "file": "clash-verge.yaml",
+          "changed": true,
+          "sha256_after": "7c4a0b1f5e61e0dfabb0ef21751539dc3ac98c653daa32e7663557925f380da7"
+        },
+        {
+          "file": "profiles.yaml",
+          "changed": false,
+          "sha256_after": "3f0d165ae1f75557fa1741733d9471eee9a10de588a7eaf6d615b18cf5ed9f3e"
+        }
+      ],
+      "dns_servers": [
+        "[REDACTED_HOST]"
+      ],
+      "tun_route": {
+        "destination": "[REDACTED_HOST]",
+        "gateway": "[REDACTED_HOST]",
+        "interface": "utun1024"
+      },
+      "local_tcp": [
+        {
+          "port": 7897,
+          "tcp": "PASS"
+        },
+        {
+          "port": 3100,
+          "tcp": "PASS"
+        }
+      ],
+      "core_process": [
+        "root             13871 /Library/Application Support/clash-verge-service/cores/verge-mihomo"
+      ],
+      "codex_main_process": "4014 /Applications/ChatGPT.app/Contents/MacOS/ChatGPT"
+    },
+    "tls_tests": [
+      {
+        "host": "chatgpt.com",
+        "system_dns_answers": [
+          "[REDACTED_HOST]"
+        ],
+        "strict_tls": "PASS",
+        "tls": "TLSv1.2",
+        "seconds": 0.127
+      },
+      {
+        "host": "ws.chatgpt.com",
+        "system_dns_answers": [
+          "[REDACTED_HOST]"
+        ],
+        "strict_tls": "PASS",
+        "tls": "TLSv1.2",
+        "seconds": 0.119
+      },
+      {
+        "host": "www.baidu.com",
+        "system_dns_answers": [
+          "[REDACTED_HOST]"
+        ],
+        "strict_tls": "PASS",
+        "tls": "TLSv1.2",
+        "seconds": 0.097
+      }
+    ],
+    "codex_recovery_events": [
+      "2026-10-27T05:43:07.553Z info [AppServerConnection] app_server_connection.state_changed cause=post_initialize_connection_state connectionError=null currentConnectionId=113 currentState=connecting hasConnection=true hostId=durable initialized=true initializeInFlight=false next=connected pendingClientRequests=0 pendingInternalRequests=0 previous=connecting reconnectAttempt=0 reconnectTimerScheduled=false restartInFlight=false targetConnectionId=113 targetReadyState=1 transport=websocket",
+      "2026-10-27T05:43:33.433Z info [tpp-local-executor] Local Work executor connection observation durationMs=102478.25045799976 episodeSequence=4 event=episode_finished observationSequence=83 outcome=recovered phase=reconnect readinessSource=rendezvous reason=unknown",
+      "2026-10-27T05:43:33.433Z info [tpp-local-executor] Local Work executor connected to rendezvous attempt=3 connectionAttempt=129 requestId=req_03933f7639354b04a55df264e4d8b168"
+    ],
+    "observation": {
+      "started_utc": "2026-10-27T05:38:33.847036+00:00",
+      "ended_utc": "2026-10-27T05:39:18.852172+00:00",
+      "duration_seconds": 45,
+      "new_connection_failures": 0,
+      "failure_samples": [],
+      "new_connection_successes": [],
+      "log_bytes_observed": 13512,
+      "note": "有界观察，不是后台监控；旧错误不计入此窗口。"
+    },
+    "switching_check": {
+      "current_profile_and_node_preserved": true,
+      "other_countries_visible_in_selector": true,
+      "actual_profile_switch_not_tested": true
+    },
+    "backup_manifest": "/Users/USER/.codex/network-repair-20261027/backup-manifest.json",
+    "rollback": "Turn off TUN in Clash Verge home; keep system proxy on at port 7897. Use before/ and backup manifest for exact configuration recovery. Do not delete subscriptions or uninstall service.",
+    "limits": [
+      "Bounded 45-second observation, not long-term stability",
+      "Codex was not restarted; subscription switching and reboot were not tested",
+      "Old user-side Unix controller refused connections after service core transition; GUI, OS route, strict TLS and real Codex logs were used instead without widening controller permissions"
+    ]
+  },
+  "initial_readonly_evidence": {
+    "date": "2026-10-27",
+    "scope": "只读网络与配置检查；修复授权待用户答复",
+    "systemProxy": {
+      "http": "127.0.0.1:7897",
+      "https": "127.0.0.1:7897",
+      "socks": "127.0.0.1:7897",
+      "listening": true,
+      "stale7890ListenerObserved": false
+    },
+    "verge": {
+      "mode": "rule",
+      "tun": false,
+      "ipv6": true,
+      "controllerAccess": "只读Unix socket API；凭据未输出或保存"
+    },
+    "tlsComparison": {
+      "target": "chatgpt.com:443",
+      "proxy": {
+        "strictTls": "PASS",
+        "seconds": 0.228
+      },
+      "direct": {
+        "stage": "TCP",
+        "result": "TIMEOUT",
+        "seconds": 6.015
+      },
+      "limits": "仅证明当时TCP/TLS可达性，不证明模型请求或WebSocket长时间稳定。"
+    },
+    "codex": {
+      "observedProxyConnections": 20,
+      "observedDirectConnections": 1,
+      "directProcessPid": 4272,
+      "directPeer": "[REDACTED_HOST]:443",
+      "directState": "SYN_SENT",
+      "recentError": "Local Work executor rendezvous unavailable; websocket_error; io timed_out",
+      "nativeLog": "/Users/USER/Library/Logs/com.openai.codex/2026/10/27/codex-desktop-406e1930-7e22-45b2-989d-76fee0df3601-4014-t0-i1-043438-0.log",
+      "limits": "未把该PID与截图中具体轮次做唯一绑定；不声称所有Codex连接均直连。"
+    },
+    "dns": {
+      "systemResolvers": [
+        "[REDACTED_HOST]",
+        "[REDACTED_HOST]"
+      ],
+      "systemChatgptAnswer": [
+        "[REDACTED_HOST]"
+      ],
+      "encryptedResolver": "Cloudflare DNS JSON over existing local proxy; strict HTTPS",
+      "encryptedChatgptAnswers": [
+        "[REDACTED_HOST]",
+        "[REDACTED_HOST]"
+      ],
+      "assessment": "本机解析路径可疑；与加密解析对照不一致，尚未执行修复后验证。"
+    },
+    "aiRouting": {
+      "chain": [
+        "🤖AI网站",
+        "🚀节点选择",
+        "♻️自动选择"
+      ],
+      "observedConnectionsAcross": [
+        "日本",
+        "新加坡"
+      ],
+      "note": "自动选择的节点测试不等于Codex流式连接稳定；本轮未切换节点，未修改任何地区限制。"
+    },
+    "nextPlan": [
+      "备份拟改的Clash Verge设置及当前DNS/路由基线；保持订阅与手动切换入口。",
+      "获明确授权后，优先使未走系统代理的进程进入现有代理（拟启用TUN，并按需处理DNS接管）；不锁国家。",
+      "验证Codex实际连接、断线日志、DNS和正常国内/本地访问；失败按备份退回。",
+      "不重启Codex、不安装新软件、不修改系统安全设置、不新增监控。"
+    ]
+  },
+  "persistence_followup": {
+    "status": "CONFIGURATION_VERIFIED_BOOT_UPDATE_NOT_EXERCISED",
+    "verified_utc": "2026-10-27T05:58:44.626518+00:00",
+    "application_version": "2.5.8",
+    "persisted": {
+      "enable_tun_mode": true,
+      "enable_auto_launch": true,
+      "enable_system_proxy": true,
+      "enable_proxy_guard": false,
+      "enable_dns_settings": false,
+      "auto_route": true,
+      "auto_detect_interface": true,
+      "dns_hijack": [
+        "any:53"
+      ],
+      "strict_route": false
+    },
+    "startup": {
+      "user_launchagent_exists": true,
+      "user_launchagent_run_at_load": true,
+      "user_launchagent_loaded_now": false,
+      "user_launchagent_executable_present": true,
+      "user_launchagent_explicit_disable_found": false,
+      "system_daemon_loaded": true,
+      "system_daemon_run_at_load": true,
+      "system_daemon_keepalive": true,
+      "system_daemon_explicitly_enabled": true,
+      "macos_background_clash_verge_enabled": true,
+      "macos_background_clash_verge_running": true,
+      "macos_background_won_fen_enabled": true,
+      "macos_ui_observed_readonly": true
+    },
+    "subscription": {
+      "existing_remote_profiles_count": 2,
+      "profiles_sha256": "3f0d165ae1f75557fa1741733d9471eee9a10de588a7eaf6d615b18cf5ed9f3e",
+      "extension_scripts_are_identity": true,
+      "per_profile_prepend_append_delete_arrays_empty": true,
+      "retired_japan_policy_references_in_checked_current_files": 0,
+      "normal_subscription_merge_preserves_application_owned_tun_fields": true,
+      "exact_dns_provider_settings_pinned": false
+    },
+    "legacy_watchdog": {
+      "label": "com.eli.japan-vpn-watch",
+      "loaded": false,
+      "run_at_load": false,
+      "launchd_disabled": true
+    },
+    "offline_escape": [
+      "Select an already downloaded profile or node in the local app.",
+      "Before using another VPN, turn off Verge TUN and system proxy, then enable the other VPN.",
+      "Downloading a refreshed subscription still requires network access."
+    ],
+    "performed": {
+      "reboot_mac": false,
+      "restart_codex": false,
+      "refresh_subscription": false,
+      "switch_subscription": false,
+      "switch_node": false,
+      "change_vpn_settings": false
+    },
+    "limits": [
+      "Configuration and startup eligibility verified, not a real reboot/login test.",
+      "DNS interception persists in saved TUN settings; provider DNS configuration may change because DNS override is off.",
+      "No claim that all nodes or arbitrary future subscriptions are healthy.",
+      "sfltool dumpbtm timed out after 12 seconds; macOS UI used instead without toggling settings."
+    ],
+    "official_source": "https://www.clashverge.dev/guide/extend.html"
+  }
+}

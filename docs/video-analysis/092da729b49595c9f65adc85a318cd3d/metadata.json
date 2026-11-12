@@ -1,0 +1,18 @@
+{
+  "source" : "\/Users\/cczij\/Library\/Containers\/com.tencent.qq\/Data\/Library\/Application Support\/QQ\/nt_qq_a44bb6aabf8947989e09238355264dfa\/nt_data\/Video\/2026-09\/Ori\/092da729b49595c9f65adc85a318cd3d.mp4",
+  "duration" : 5955.4745487528344,
+  "tracks" : [
+    {
+      "type" : "vide",
+      "width" : 1280,
+      "duration" : 5955.4340000000002,
+      "height" : 720
+    },
+    {
+      "duration" : 5955.4759999999997,
+      "width" : 0,
+      "height" : 0,
+      "type" : "soun"
+    }
+  ]
+}

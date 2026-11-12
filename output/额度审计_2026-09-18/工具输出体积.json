@@ -1,0 +1,393 @@
+{
+  "characters": {
+    "exec_command": 9403001,
+    "exec_command,mcp__codex_app__load_workspace_dependencies": 48291,
+    "write_stdin": 64920,
+    "exec_command,view_image": 46870247,
+    "mcp__codex_app__open_in_codex,view_image": 1183456,
+    "view_image,write_stdin": 794336,
+    "request_user_input_async": 221,
+    "js": 46633354,
+    "exec_command,view_image,write_stdin": 6867242,
+    "mcp__codex_app__open_in_codex,view_image,write_stdin": 156054,
+    "exec_command,write_stdin": 1045895,
+    "exec_command,mcp__codex_app__open_in_codex,view_image,write_stdin": 4270216,
+    "apply_patch,exec_command": 136326,
+    "exec_command,mcp__codex_app__open_in_codex": 11161,
+    "view_image": 18456214,
+    "exec_command,mcp__codex_app__list_threads": 152477,
+    "exec_command,mcp__codex_app__get_usage_limits": 10105,
+    "web__run": 4978382,
+    "?": 89510,
+    "exec_command,web__run": 3220457,
+    "web__run,write_stdin": 409215,
+    "apply_patch,exec_command,view_image": 3709687,
+    "exec_command,mcp__codex_app__open_in_codex,write_stdin": 679,
+    "exec_command,mcp__codex_app__open_in_codex,view_image": 108811,
+    "mcp__codex_app__open_in_codex": 1692,
+    "apply_patch": 10143,
+    "apply_patch,exec_command,write_stdin": 22215,
+    "mcp__codex_app__send_message_to_thread": 12002,
+    "image_gen__imagegen": 648,
+    "wait": 49417,
+    "spawn_agent": 121,
+    "followup_task": 0,
+    "get_goal": 392,
+    "update_goal": 2358,
+    "exec_command,get_goal": 62202,
+    "exec_command,mcp__sosumi__fetchAppleDocumentation": 17171,
+    "js_reset": 121,
+    "exec_command,mcp__codex_app__open_in_codex,update_goal": 1197,
+    "sleep": 1703,
+    "send_message": 0,
+    "wait_agent": 232,
+    "mcp__codex_app__open_in_codex,write_stdin": 436,
+    "apply_patch,exec_command,mcp__codex_app__open_in_codex": 541,
+    "exec_command,mcp__codex_app__read_thread": 53727,
+    "apply_patch,mcp__codex_app__send_message_to_thread": 2238,
+    "exec_command,mcp__codex_app__wait_threads": 59606,
+    "exec_command,mcp__codex_app__send_message_to_thread": 47580,
+    "mcp__codex_app__wait_threads": 13458,
+    "apply_patch,mcp__codex_app__wait_threads": 307,
+    "apply_patch,mcp__codex_app__send_message_to_thread,mcp__codex_app__wait_threads": 2066,
+    "mcp__codex_app__list_threads": 61200,
+    "mcp__codex_app__get_usage_limits,mcp__codex_app__read_thread": 3956,
+    "apply_patch,mcp__codex_app__open_in_codex": 320,
+    "exec_command,view_image,web__run": 1369426,
+    "list_agents": 218,
+    "exec": 16464,
+    "mcp__codex_apps__gmail_search_emails": 122873,
+    "exec_command,mcp__codex_apps__gmail_read_email_thread": 16782,
+    "mcp__codex_apps__gmail_read_email": 27349,
+    "mcp__codex_app__list_projects": 6472,
+    "mcp__codex_app__create_thread": 1921,
+    "mcp__codex_app__send_message_to_thread,mcp__codex_app__wait_threads": 2925,
+    "create_goal,mcp__codex_app__send_message_to_thread": 808,
+    "mcp__codex_app__wait_threads,write_stdin": 3767,
+    "exec_command,mcp__codex_app__send_message_to_thread,mcp__codex_app__wait_threads": 421,
+    "get_goal,mcp__codex_app__wait_threads": 6670,
+    "mcp__codex_app__send_message_to_thread,web__run": 99589,
+    "mcp__codex_app__wait_threads,web__run": 31640,
+    "get_goal,mcp__codex_app__send_message_to_thread": 816,
+    "mcp__codex_app__send_message_to_thread,update_goal": 816,
+    "exec_command,mcp__codex_apps__gmail_search_emails": 196647,
+    "apply_patch,mcp__codex_apps__gmail_send_email": 10283,
+    "mcp__codex_apps__gmail_batch_read_email": 45622,
+    "mcp__codex_apps__gmail_batch_read_email,mcp__codex_apps__gmail_read_attachment": 11289,
+    "exec_command,mcp__codex_apps__gmail_batch_read_email,mcp__codex_apps__gmail_search_emails": 44475,
+    "exec_command,mcp__codex_apps__figma_whoami": 62,
+    "mcp__codex_apps__figma_create_new_file": 403,
+    "exec_command,mcp__codex_apps__figma_use_figma": 39284,
+    "exec_command,mcp__codex_apps__figma_get_libraries": 10643,
+    "mcp__codex_apps__figma_search_design_system": 24367,
+    "mcp__codex_apps__figma_use_figma": 61792,
+    "clock__curr_time,web__run": 66082,
+    "clock__curr_time,exec_command": 7386,
+    "clock__curr_time": 490,
+    "exec_command,mcp__codex_app__list_projects,mcp__codex_app__list_threads": 15891,
+    "exec_command,mcp__codex_apps__gmail_search_emails,web__run": 32545,
+    "exec_command,web__run,write_stdin": 130428,
+    "apply_patch,web__run": 44827,
+    "apply_patch,exec_command,mcp__codex_apps__gmail_search_emails": 25237,
+    "apply_patch,write_stdin": 8487,
+    "apply_patch,exec_command,mcp__codex_apps__gmail_search_emails,write_stdin": 42827,
+    "apply_patch,web__run,write_stdin": 1750,
+    "apply_patch,exec_command,mcp__codex_apps__gmail_search_emails,web__run": 10066,
+    "exec_command,mcp__codex_apps__gmail_get_profile,mcp__codex_apps__gmail_search_emails": 22280,
+    "exec_command,mcp__codex_apps__gmail_read_email": 26957,
+    "apply_patch,mcp__codex_apps__gmail_search_emails": 396,
+    "mcp__codex_apps__gmail_read_email,mcp__codex_apps__gmail_search_emails": 38561,
+    "exec_command,mcp__codex_apps__gmail_batch_read_email": 21951,
+    "exec_command,mcp__codex_apps__gmail_read_email,mcp__codex_apps__gmail_search_emails": 27652,
+    "exec_command,update_plan": 182743,
+    "update_plan,web__run": 14297,
+    "update_plan": 1116,
+    "mcp__codex_apps__gmail_search_emails,web__run": 13094,
+    "mcp__codex_apps__gmail_send_email": 1820,
+    "mcp__codex_app__send_message_to_thread,write_stdin": 406,
+    "apply_patch,exec_command,mcp__codex_app__send_message_to_thread": 2038,
+    "exec_command,image_gen__imagegen": 4241
+  },
+  "large": [
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1950680,
+      "timestamp": "2026-09-18T01:26:26.982Z",
+      "line": 2385
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1908225,
+      "timestamp": "2026-09-17T11:36:43.405Z",
+      "line": 1699
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1870959,
+      "timestamp": "2026-09-18T01:55:44.951Z",
+      "line": 2827
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1841134,
+      "timestamp": "2026-09-16T05:11:09.666Z",
+      "line": 10308
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1841134,
+      "timestamp": "2026-09-16T08:47:15.803Z",
+      "line": 11148
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1783749,
+      "timestamp": "2026-09-18T01:42:04.050Z",
+      "line": 24448
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "view_image",
+      "chars": 1748546,
+      "timestamp": "2026-09-15T14:48:20.957Z",
+      "line": 2096
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1734253,
+      "timestamp": "2026-09-15T08:00:55.205Z",
+      "line": 16146
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1710285,
+      "timestamp": "2026-09-18T01:35:26.358Z",
+      "line": 2533
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1653270,
+      "timestamp": "2026-09-16T05:13:14.316Z",
+      "line": 10331
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "view_image",
+      "chars": 1628872,
+      "timestamp": "2026-09-16T08:43:17.801Z",
+      "line": 11073
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1627813,
+      "timestamp": "2026-09-16T05:14:14.902Z",
+      "line": 10352
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1621208,
+      "timestamp": "2026-09-17T11:18:35.491Z",
+      "line": 1374
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "apply_patch,exec_command,view_image",
+      "chars": 1594960,
+      "timestamp": "2026-09-17T11:33:46.889Z",
+      "line": 1657
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "apply_patch,exec_command,view_image",
+      "chars": 1587885,
+      "timestamp": "2026-09-17T11:30:52.161Z",
+      "line": 1594
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1571970,
+      "timestamp": "2026-09-15T08:18:28.599Z",
+      "line": 16660
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "exec_command,mcp__codex_app__open_in_codex,view_image,write_stdin",
+      "chars": 1568965,
+      "timestamp": "2026-09-15T14:33:49.725Z",
+      "line": 1958
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "exec_command,view_image,write_stdin",
+      "chars": 1558837,
+      "timestamp": "2026-09-15T14:32:41.086Z",
+      "line": 1931
+    },
+    {
+      "thread": "01a0afa5-e0b6-7bd0-8089-12ca97fda69b",
+      "tool": "view_image",
+      "chars": 1443861,
+      "timestamp": "2026-09-17T14:00:20.003Z",
+      "line": 127
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "exec_command,mcp__codex_app__open_in_codex,view_image,write_stdin",
+      "chars": 1403266,
+      "timestamp": "2026-09-15T14:40:16.646Z",
+      "line": 1993
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image,web__run",
+      "chars": 1369426,
+      "timestamp": "2026-09-16T08:32:40.262Z",
+      "line": 10976
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1357958,
+      "timestamp": "2026-09-16T03:16:56.770Z",
+      "line": 10208
+    },
+    {
+      "thread": "01a09d95-8738-76f0-8eb4-d2c6b146a1a7",
+      "tool": "exec_command,view_image,write_stdin",
+      "chars": 1356012,
+      "timestamp": "2026-09-16T03:11:03.774Z",
+      "line": 705
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1231464,
+      "timestamp": "2026-09-15T15:04:02.194Z",
+      "line": 21644
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "view_image",
+      "chars": 1224226,
+      "timestamp": "2026-09-15T08:25:21.108Z",
+      "line": 16795
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1195966,
+      "timestamp": "2026-09-15T09:00:38.282Z",
+      "line": 17561
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1186416,
+      "timestamp": "2026-09-17T01:51:57.626Z",
+      "line": 22979
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1160204,
+      "timestamp": "2026-09-15T14:37:59.037Z",
+      "line": 21326
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "view_image",
+      "chars": 1141344,
+      "timestamp": "2026-09-15T09:21:11.571Z",
+      "line": 17967
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1090462,
+      "timestamp": "2026-09-17T11:40:51.384Z",
+      "line": 1793
+    },
+    {
+      "thread": "01a09d95-8738-76f0-8eb4-d2c6b146a1a7",
+      "tool": "exec_command,view_image",
+      "chars": 1086288,
+      "timestamp": "2026-09-16T03:12:15.248Z",
+      "line": 725
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "exec_command,mcp__codex_app__open_in_codex,view_image,write_stdin",
+      "chars": 1067056,
+      "timestamp": "2026-09-15T14:15:09.330Z",
+      "line": 1785
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "view_image",
+      "chars": 1051540,
+      "timestamp": "2026-09-15T08:54:31.269Z",
+      "line": 17452
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 1049686,
+      "timestamp": "2026-09-18T01:54:12.735Z",
+      "line": 2797
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "view_image",
+      "chars": 1048588,
+      "timestamp": "2026-09-15T14:32:55.642Z",
+      "line": 1940
+    },
+    {
+      "thread": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "tool": "exec_command,view_image",
+      "chars": 1032266,
+      "timestamp": "2026-09-16T08:49:09.745Z",
+      "line": 11176
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 1017746,
+      "timestamp": "2026-09-15T08:47:17.684Z",
+      "line": 17274
+    },
+    {
+      "thread": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "tool": "exec_command,view_image",
+      "chars": 936584,
+      "timestamp": "2026-09-15T14:17:06.350Z",
+      "line": 20955
+    },
+    {
+      "thread": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "tool": "exec_command,view_image",
+      "chars": 920921,
+      "timestamp": "2026-09-17T11:41:03.371Z",
+      "line": 1801
+    },
+    {
+      "thread": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+      "tool": "exec_command,view_image,write_stdin",
+      "chars": 906900,
+      "timestamp": "2026-09-15T14:14:22.019Z",
+      "line": 1767
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "measuredAt": "2026-10-23T12:19:16.082Z",
+  "target": "ab.chatgpt.com",
+  "scope": "TLS handshake only; no application HTTP, credentials, or telemetry payload",
+  "results": [
+    {
+      "route": "direct",
+      "success": false,
+      "errorCode": "TLS_DEADLINE_5000MS",
+      "elapsedMs": 5003
+    },
+    {
+      "route": "existing-system-proxy",
+      "success": true,
+      "errorCode": null,
+      "elapsedMs": 268
+    }
+  ]
+}

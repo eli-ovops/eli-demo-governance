@@ -1,0 +1,49 @@
+{
+  "roots": [
+    "/Users/USER/Documents",
+    "/Users/USER/Desktop",
+    "/Users/USER/Downloads",
+    "/Users/USER/WeChatProjects",
+    "/Users/USER/乔帮主项目_移交包",
+    "/Users/USER/Pictures",
+    "/Users/USER/Movies",
+    "/Users/USER/Music",
+    "/Users/USER/Public",
+    "/Volumes/EXTERNAL",
+    "/Users/USER/Library/Application Support/Open Design/namespaces"
+  ],
+  "excluded_dirs": [
+    ".Spotlight-V100",
+    ".Trash",
+    ".Trashes",
+    ".cache",
+    ".fseventsd",
+    ".git",
+    ".next",
+    ".venv",
+    "CoreSimulator",
+    "DerivedData",
+    "Focumi-DeviceSupport",
+    "Focumi-iOS17-DerivedData",
+    "Focumi-iOS17-runtime",
+    "Library",
+    "Pods",
+    "XCTestCloneBackups",
+    "__pycache__",
+    "build",
+    "coverage",
+    "dist",
+    "node_modules",
+    "runtime",
+    "venv"
+  ],
+  "max_depth": 7,
+  "thread_count": 2555,
+  "archived": 1335,
+  "first": "2026-05-30T18:39:07",
+  "file_count": 84615,
+  "directory_count_depth3": 1359,
+  "errors": [
+    "[Errno 1] Operation not permitted: '/Users/USER/Pictures/Photos Library.photoslibrary'"
+  ]
+}

@@ -1,0 +1,110 @@
+# Eli AI 录单 L0 交互验证 Demo 站点身份契约。
+# 本文件不构成预览、发布、远端或真实业务能力授权。
+schema_version: "1.0"
+status: "identity-only-pending-explicit-authorization"
+site_id: "eli-ai-order-entry-mvp-preview"
+project: "Eli / AI 录单 L0 交互验证 Demo"
+confirmed_by: "Eli / User (site_id/project only; not a deployment authorization)"
+confirmed_at: "2026-07-16 (identity record only)"
+no_secret_values: true
+
+delivery_level: "L0-interaction-validation"
+capability_boundary:
+  local_demo_only: true
+  mock_only: true
+  real_backend: false
+  real_database: false
+  real_ocr: false
+  real_llm: false
+  real_customer_documents: false
+
+automatic_routing:
+  enabled: false
+  status: "disabled-pending-explicit-per-task-user-authorization"
+  reason: "No continuous authorization or automatic routing; any external preview or release requires current user authorization, one owner, and realtime guide/status confirmation"
+
+server:
+  reference: "TBD - no remote/server facility confirmed"
+  owner: "TBD"
+
+environments:
+  preview:
+    enabled: false
+    public_url: null
+    admin_path: null
+  production:
+    enabled: false
+    public_url: null
+    admin_path: null
+
+repository:
+  repo_url: null
+  approved_branch: null
+  production_branch: null
+  commit_sha_required: true
+
+architecture: "static"
+
+toolchain:
+  framework: "Vite + React + TypeScript"
+  node: null
+  node_status: "not declared by ai-order-entry-mvp/package.json"
+  pnpm_major: null
+  package_manager: "npm"
+  lockfile: "ai-order-entry-mvp/package-lock.json"
+  payload_version: null
+
+runtime:
+  app_port_reference: "local Vite development or preview port only"
+  health_port_reference: null
+
+deployment:
+  call_carrier: "disabled-tbd"
+  forced_command_reference: "TBD - no publisher or remote entry confirmed"
+  allowed_modes: []
+  guide_reference: "TBD - requires realtime guide/status after current user authorization"
+
+storage:
+  code_reference: "ai-order-entry-mvp/ local source tree"
+  releases_reference: "TBD - no external release storage confirmed"
+  database_reference: "not-applicable - Mock Data only"
+  media_reference: "not-applicable - no persistent media"
+
+database:
+  type: "not-applicable-local-mock"
+  credential_secret_ref: null
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "TBD"
+  developer: "TBD"
+  server_owner: "TBD"
+
+migration:
+  required: false
+  required_for_localization: false
+  procedure_reference: "not-applicable - no database"
+  production_approval_required: true
+
+backup:
+  procedure_reference: "TBD - no external release procedure confirmed"
+  database_and_media_separate: true
+  restore_rehearsal_required: false
+
+release_retention:
+  policy_reference: "TBD - no publisher confirmed"
+  previous_accepted_release_required: true
+
+health_checks:
+  public_page: null
+  application: "not-applicable - local Mock frontend only"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "TBD - external rollback requires separate authorization and confirmed facility"
+  explicit_authorization_required: true

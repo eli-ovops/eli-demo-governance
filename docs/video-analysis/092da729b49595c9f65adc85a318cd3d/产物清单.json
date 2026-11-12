@@ -1,0 +1,1033 @@
+{
+  "root": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d",
+  "manifest_path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/产物清单.json",
+  "files": [
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/captions_1s.jsonl",
+      "bytes": 350734,
+      "mtime": "2026-10-01T10:51:13.109670+08:00",
+      "source": "本任务本地生成",
+      "purpose": "原始OCR证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_1752.jpg",
+      "bytes": 200878,
+      "mtime": "2026-10-01T10:44:57.400967+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_2060.jpg",
+      "bytes": 197069,
+      "mtime": "2026-10-01T10:44:57.467660+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_2510.jpg",
+      "bytes": 152330,
+      "mtime": "2026-10-01T10:44:57.512497+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_2542.jpg",
+      "bytes": 123978,
+      "mtime": "2026-10-01T10:44:57.554005+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_4664.jpg",
+      "bytes": 203608,
+      "mtime": "2026-10-01T10:44:57.587597+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_5952.jpg",
+      "bytes": 202482,
+      "mtime": "2026-10-01T10:44:57.646367+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_676.jpg",
+      "bytes": 326476,
+      "mtime": "2026-10-01T10:44:57.317164+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_710.jpg",
+      "bytes": 156131,
+      "mtime": "2026-10-01T10:44:57.347564+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/detail_832.jpg",
+      "bytes": 139457,
+      "mtime": "2026-10-01T10:44:57.369618+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_0.jpg",
+      "bytes": 177061,
+      "mtime": "2026-10-01T10:36:54.242219+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1080.jpg",
+      "bytes": 123708,
+      "mtime": "2026-10-01T10:37:46.992112+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_120.jpg",
+      "bytes": 160531,
+      "mtime": "2026-10-01T10:36:59.874276+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1200.jpg",
+      "bytes": 125165,
+      "mtime": "2026-10-01T10:37:52.597132+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1320.jpg",
+      "bytes": 105407,
+      "mtime": "2026-10-01T10:37:58.445042+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1440.jpg",
+      "bytes": 124528,
+      "mtime": "2026-10-01T10:38:04.111088+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1560.jpg",
+      "bytes": 124121,
+      "mtime": "2026-10-01T10:38:10.030411+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1680.jpg",
+      "bytes": 165231,
+      "mtime": "2026-10-01T10:38:15.583634+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1800.jpg",
+      "bytes": 119144,
+      "mtime": "2026-10-01T10:38:22.508826+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_1920.jpg",
+      "bytes": 105905,
+      "mtime": "2026-10-01T10:38:28.539919+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2040.jpg",
+      "bytes": 125208,
+      "mtime": "2026-10-01T10:38:34.278214+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2160.jpg",
+      "bytes": 120364,
+      "mtime": "2026-10-01T10:38:40.858509+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2280.jpg",
+      "bytes": 162916,
+      "mtime": "2026-10-01T10:38:46.614196+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_240.jpg",
+      "bytes": 164692,
+      "mtime": "2026-10-01T10:37:05.593349+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2400.jpg",
+      "bytes": 123589,
+      "mtime": "2026-10-01T10:38:52.152942+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2520.jpg",
+      "bytes": 162607,
+      "mtime": "2026-10-01T10:39:01.092116+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2640.jpg",
+      "bytes": 120614,
+      "mtime": "2026-10-01T10:39:07.498158+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2760.jpg",
+      "bytes": 111665,
+      "mtime": "2026-10-01T10:39:13.293037+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_2880.jpg",
+      "bytes": 122724,
+      "mtime": "2026-10-01T10:39:19.225930+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3000.jpg",
+      "bytes": 119466,
+      "mtime": "2026-10-01T10:39:25.121957+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3120.jpg",
+      "bytes": 159747,
+      "mtime": "2026-10-01T10:39:31.118010+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3240.jpg",
+      "bytes": 123298,
+      "mtime": "2026-10-01T10:39:36.946223+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3360.jpg",
+      "bytes": 110939,
+      "mtime": "2026-10-01T10:39:43.107914+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3480.jpg",
+      "bytes": 120810,
+      "mtime": "2026-10-01T10:39:48.918852+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_360.jpg",
+      "bytes": 121099,
+      "mtime": "2026-10-01T10:37:11.163641+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3600.jpg",
+      "bytes": 122770,
+      "mtime": "2026-10-01T10:39:54.603394+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3720.jpg",
+      "bytes": 121589,
+      "mtime": "2026-10-01T10:40:00.395596+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3840.jpg",
+      "bytes": 121707,
+      "mtime": "2026-10-01T10:40:06.322657+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_3960.jpg",
+      "bytes": 125306,
+      "mtime": "2026-10-01T10:40:12.322587+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4080.jpg",
+      "bytes": 122189,
+      "mtime": "2026-10-01T10:40:18.447807+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4200.jpg",
+      "bytes": 123400,
+      "mtime": "2026-10-01T10:40:24.404790+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4320.jpg",
+      "bytes": 162326,
+      "mtime": "2026-10-01T10:40:30.292294+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4440.jpg",
+      "bytes": 162457,
+      "mtime": "2026-10-01T10:40:36.536501+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4560.jpg",
+      "bytes": 159528,
+      "mtime": "2026-10-01T10:40:42.905218+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4680.jpg",
+      "bytes": 165203,
+      "mtime": "2026-10-01T10:40:50.477744+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_480.jpg",
+      "bytes": 122404,
+      "mtime": "2026-10-01T10:37:16.809330+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4800.jpg",
+      "bytes": 123952,
+      "mtime": "2026-10-01T10:40:56.806794+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_4920.jpg",
+      "bytes": 122504,
+      "mtime": "2026-10-01T10:41:02.931403+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5040.jpg",
+      "bytes": 125198,
+      "mtime": "2026-10-01T10:41:09.294315+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5160.jpg",
+      "bytes": 111310,
+      "mtime": "2026-10-01T10:41:15.247137+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5280.jpg",
+      "bytes": 129525,
+      "mtime": "2026-10-01T10:41:21.488803+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5400.jpg",
+      "bytes": 160227,
+      "mtime": "2026-10-01T10:41:27.647394+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5520.jpg",
+      "bytes": 127032,
+      "mtime": "2026-10-01T10:41:34.059552+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5640.jpg",
+      "bytes": 125354,
+      "mtime": "2026-10-01T10:41:40.476088+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5760.jpg",
+      "bytes": 126898,
+      "mtime": "2026-10-01T10:41:47.036462+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_5880.jpg",
+      "bytes": 109744,
+      "mtime": "2026-10-01T10:41:53.378670+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_600.jpg",
+      "bytes": 125194,
+      "mtime": "2026-10-01T10:37:22.384136+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_720.jpg",
+      "bytes": 126253,
+      "mtime": "2026-10-01T10:37:29.168291+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_840.jpg",
+      "bytes": 110808,
+      "mtime": "2026-10-01T10:37:35.350706+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/frame_960.jpg",
+      "bytes": 125692,
+      "mtime": "2026-10-01T10:37:41.151424+08:00",
+      "source": "本任务本地生成",
+      "purpose": "画面复核证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/metadata.json",
+      "bytes": 503,
+      "mtime": "2026-10-01T10:36:38.074843+08:00",
+      "source": "本任务本地生成",
+      "purpose": "媒体元数据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/ocr.json",
+      "bytes": 649249,
+      "mtime": "2026-10-01T10:41:57.325859+08:00",
+      "source": "本任务本地生成",
+      "purpose": "原始OCR证据",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/read_captions.swift",
+      "bytes": 1488,
+      "mtime": "2026-10-01T10:43:58.911114+08:00",
+      "source": "本任务本地生成",
+      "purpose": "本地可复现脚本",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/read_details.swift",
+      "bytes": 642,
+      "mtime": "2026-10-01T10:44:56.450719+08:00",
+      "source": "本任务本地生成",
+      "purpose": "本地可复现脚本",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/read_review.swift",
+      "bytes": 737,
+      "mtime": "2026-10-01T11:14:14.520550+08:00",
+      "source": "本任务本地生成",
+      "purpose": "30处定点截图生成",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/read_video.swift",
+      "bytes": 2135,
+      "mtime": "2026-10-01T10:36:36.510386+08:00",
+      "source": "本任务本地生成",
+      "purpose": "本地可复现脚本",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_125.jpg",
+      "bytes": 145518,
+      "mtime": "2026-10-01T11:14:16.091243+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_1296.jpg",
+      "bytes": 117108,
+      "mtime": "2026-10-01T11:14:16.300499+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_15.jpg",
+      "bytes": 141705,
+      "mtime": "2026-10-01T11:14:15.997291+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_155.jpg",
+      "bytes": 200289,
+      "mtime": "2026-10-01T11:14:16.136548+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_1555.jpg",
+      "bytes": 140363,
+      "mtime": "2026-10-01T11:14:16.335662+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_1567.jpg",
+      "bytes": 162054,
+      "mtime": "2026-10-01T11:14:16.381718+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_160.jpg",
+      "bytes": 133992,
+      "mtime": "2026-10-01T11:14:16.150914+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_1842.jpg",
+      "bytes": 166850,
+      "mtime": "2026-10-01T11:14:16.421805+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_19.jpg",
+      "bytes": 144478,
+      "mtime": "2026-10-01T11:14:16.016269+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_2101.jpg",
+      "bytes": 208659,
+      "mtime": "2026-10-01T11:14:16.440038+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_2193.jpg",
+      "bytes": 153405,
+      "mtime": "2026-10-01T11:14:16.461918+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_2513.jpg",
+      "bytes": 209694,
+      "mtime": "2026-10-01T11:14:16.481414+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_2584.jpg",
+      "bytes": 213179,
+      "mtime": "2026-10-01T11:14:16.533862+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_317.jpg",
+      "bytes": 142909,
+      "mtime": "2026-10-01T11:14:16.185618+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_3260.jpg",
+      "bytes": 142646,
+      "mtime": "2026-10-01T11:14:16.550032+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_37.jpg",
+      "bytes": 152271,
+      "mtime": "2026-10-01T11:14:16.055102+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_3724.jpg",
+      "bytes": 155059,
+      "mtime": "2026-10-01T11:14:16.587841+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_3918.jpg",
+      "bytes": 152799,
+      "mtime": "2026-10-01T11:14:16.619615+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_4350.jpg",
+      "bytes": 145033,
+      "mtime": "2026-10-01T11:14:16.660038+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_4895.jpg",
+      "bytes": 155949,
+      "mtime": "2026-10-01T11:14:16.700106+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5011.jpg",
+      "bytes": 160016,
+      "mtime": "2026-10-01T11:14:16.755609+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_520.jpg",
+      "bytes": 157735,
+      "mtime": "2026-10-01T11:14:16.215724+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5201.jpg",
+      "bytes": 159253,
+      "mtime": "2026-10-01T11:14:16.798962+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5320.jpg",
+      "bytes": 135698,
+      "mtime": "2026-10-01T11:14:16.820396+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5442.jpg",
+      "bytes": 133077,
+      "mtime": "2026-10-01T11:14:16.848584+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5585.jpg",
+      "bytes": 172734,
+      "mtime": "2026-10-01T11:14:16.885495+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5708.jpg",
+      "bytes": 145607,
+      "mtime": "2026-10-01T11:14:16.918307+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_5925.jpg",
+      "bytes": 202269,
+      "mtime": "2026-10-01T11:14:16.966477+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_619.jpg",
+      "bytes": 157947,
+      "mtime": "2026-10-01T11:14:16.235735+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/review_813.jpg",
+      "bytes": 140767,
+      "mtime": "2026-10-01T11:14:16.266877+08:00",
+      "source": "本任务本地生成",
+      "purpose": "定点疑问画面",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/合并候选.json",
+      "bytes": 473142,
+      "mtime": "2026-10-01T11:07:56.385201+08:00",
+      "source": "本任务本地生成",
+      "purpose": "两轮联合变化候选",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/字幕整理稿.md",
+      "bytes": 115602,
+      "mtime": "2026-10-01T11:26:17.750611+08:00",
+      "source": "本任务本地生成",
+      "purpose": "可获得画面字幕的时间序整理及缺口标注",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/字幕补读.txt",
+      "bytes": 154001,
+      "mtime": "2026-10-01T10:51:40.751274+08:00",
+      "source": "本任务本地生成",
+      "purpose": "字幕查阅文本",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/字幕采样.txt",
+      "bytes": 164057,
+      "mtime": "2026-10-01T10:42:42.416400+08:00",
+      "source": "本任务本地生成",
+      "purpose": "字幕查阅文本",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/执行记录.md",
+      "bytes": 6890,
+      "mtime": "2026-10-01T11:29:23.959963+08:00",
+      "source": "本任务本地生成",
+      "purpose": "交付报告与记录",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/整理字幕.py",
+      "bytes": 1917,
+      "mtime": "2026-10-01T11:07:55.650899+08:00",
+      "source": "本任务本地生成",
+      "purpose": "两轮OCR联合候选与阅读批次生成",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/整理字幕条目.json",
+      "bytes": 321101,
+      "mtime": "2026-10-01T11:26:17.784182+08:00",
+      "source": "本任务本地生成",
+      "purpose": "最终片段与候选索引",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/校对对照.json",
+      "bytes": 1535377,
+      "mtime": "2026-10-01T11:26:17.775214+08:00",
+      "source": "本任务本地生成",
+      "purpose": "逐候选原字、整理字与分类原因",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/核验结果.json",
+      "bytes": 1098,
+      "mtime": "2026-10-01T11:30:21.501852+08:00",
+      "source": "本任务本地生成",
+      "purpose": "当前检查回执与准确性边界",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/生成整理稿.py",
+      "bytes": 19177,
+      "mtime": "2026-10-01T11:26:17.604620+08:00",
+      "source": "本任务本地生成",
+      "purpose": "字幕分类、去重与校对输出生成",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/补正记录.md",
+      "bytes": 5946,
+      "mtime": "2026-10-01T11:28:11.448409+08:00",
+      "source": "本任务本地生成",
+      "purpose": "人工阅读范围、30处画面结论和未解决范围",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/视频分析.md",
+      "bytes": 24465,
+      "mtime": "2026-10-01T11:28:11.444838+08:00",
+      "source": "本任务本地生成",
+      "purpose": "交付报告与记录",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_0000.txt",
+      "bytes": 8361,
+      "mtime": "2026-10-01T11:07:56.385687+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_0300.txt",
+      "bytes": 8803,
+      "mtime": "2026-10-01T11:07:56.386054+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_0600.txt",
+      "bytes": 19001,
+      "mtime": "2026-10-01T11:07:56.386423+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_0900.txt",
+      "bytes": 9266,
+      "mtime": "2026-10-01T11:07:56.387068+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_1200.txt",
+      "bytes": 8611,
+      "mtime": "2026-10-01T11:07:56.387473+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_1500.txt",
+      "bytes": 16329,
+      "mtime": "2026-10-01T11:07:56.387871+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_1800.txt",
+      "bytes": 14156,
+      "mtime": "2026-10-01T11:07:56.388255+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_2100.txt",
+      "bytes": 7929,
+      "mtime": "2026-10-01T11:07:56.388566+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_2400.txt",
+      "bytes": 35575,
+      "mtime": "2026-10-01T11:07:56.388929+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_2700.txt",
+      "bytes": 7303,
+      "mtime": "2026-10-01T11:07:56.389235+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_3000.txt",
+      "bytes": 8561,
+      "mtime": "2026-10-01T11:07:56.389571+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_3300.txt",
+      "bytes": 6792,
+      "mtime": "2026-10-01T11:07:56.389870+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_3600.txt",
+      "bytes": 8061,
+      "mtime": "2026-10-01T11:07:56.390175+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_3900.txt",
+      "bytes": 8109,
+      "mtime": "2026-10-01T11:07:56.390508+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_4200.txt",
+      "bytes": 7705,
+      "mtime": "2026-10-01T11:07:56.390827+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_4500.txt",
+      "bytes": 22404,
+      "mtime": "2026-10-01T11:07:56.391175+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_4800.txt",
+      "bytes": 8217,
+      "mtime": "2026-10-01T11:07:56.391490+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_5100.txt",
+      "bytes": 8129,
+      "mtime": "2026-10-01T11:07:56.391799+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_5400.txt",
+      "bytes": 10001,
+      "mtime": "2026-10-01T11:07:56.392100+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    },
+    {
+      "path": "/Users/USER/Documents/eli/docs/video-analysis/092da729b49595c9f65adc85a318cd3d/阅读批次_5700.txt",
+      "bytes": 7521,
+      "mtime": "2026-10-01T11:07:56.392457+08:00",
+      "source": "本任务本地生成",
+      "purpose": "五分钟阅读批次",
+      "risk": "保留用于复核，未自动删除"
+    }
+  ],
+  "file_count_excluding_manifest": 128,
+  "total_bytes_excluding_manifest": 17069676,
+  "cleanup": "无可清理项，原视频未复制，已有证据保留"
+}

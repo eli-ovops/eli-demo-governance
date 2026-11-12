@@ -1,0 +1,32 @@
+{
+  "status": "handoff_and_sidebar_verified_runtime_unknown",
+  "old_thread_id": "01a07491-0287-7072-b0d4-c1ba06b2a83d",
+  "old_title": "0-14 PMO总控 | eli【已交接】",
+  "project_id": "local-178456073c9635cf0204b9dd0cce59b3",
+  "cwd": "/Users/USER/Documents/eli",
+  "host_id": "local",
+  "rule_version": "ROUTING-2026-09-23-v2",
+  "target_model": "gpt-6-astra",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "successor_id": "01a0cbf6-283e-73f1-9e91-55fb02e6518c",
+  "automatic_tasks_changed": false,
+  "new_title": "0-14 PMO总控 | eli",
+  "create_tool_result": {
+    "threadId": "01a0cbf6-283e-73f1-9e91-55fb02e6518c",
+    "hostId": "local"
+  },
+  "acceptance_turn_id": "01a0cbf6-2a8d-7a61-9aba-fca549ce66b5",
+  "acceptance_turn_status": "completed",
+  "project_binding_verified": true,
+  "actual_speed_mode": "UNKNOWN",
+  "new_pinned": true,
+  "old_pinned": false,
+  "old_archived": false,
+  "global_order_changed": false,
+  "navigation_changed": false,
+  "business_resumed": false,
+  "automatic_dependency_check": "No exact old-thread-id or Eli-path reference in local automation.toml; indirect or remote dependencies UNKNOWN",
+  "receipt_file": "接管回执.md"
+}

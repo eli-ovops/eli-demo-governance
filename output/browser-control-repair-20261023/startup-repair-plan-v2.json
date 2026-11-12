@@ -1,0 +1,42 @@
+{
+  "status": "RESTART_DEFERRED_BY_USER",
+  "application_restart_authorized": false,
+  "startup_job_installed": false,
+  "gui_environment_changed": false,
+  "draft_target": "/Users/USER/Library/LaunchAgents/com.eli.codex-browser-proxy-env.plist",
+  "files": [
+    {
+      "path": "/Users/USER/.codex/browser-repair-20261023/browser-node-proxy",
+      "sha256": "34d3bc49e20d895470d8efa9d379d888385802b7667d72ed6927a6aba62d6137",
+      "bytes": 3840
+    },
+    {
+      "path": "/Users/USER/.codex/browser-repair-20261023/启动浏览器修复验证.command",
+      "sha256": "a89f5a454775e42453eef0590803aac47283353452810bf0e6f5c80a96370d6d",
+      "bytes": 2034
+    },
+    {
+      "path": "/Users/USER/.codex/browser-repair-20261023/com.eli.codex-browser-proxy-env.plist",
+      "sha256": "89206a8e8b390304969115d70b816b3ac7ef3447ac4b3907010ffb85babfc65a",
+      "bytes": 556
+    }
+  ],
+  "restart_impact": {
+    "checked_at": "2026-10-23T13:44:20.368017+00:00",
+    "inventory_scope": "all pinned plus 50 recent chats; not an exhaustive all-chat claim",
+    "other_active_titles": [
+      "0-7 PMO总控 | Serenity国内版",
+      "评估电商图片生成流程",
+      "06｜发布准备与回执"
+    ],
+    "interrupted_any_chat": false,
+    "decision_pending": true
+  },
+  "user_decision": {
+    "at": "2026-10-23T13:45:13.733301+00:00",
+    "answer": "暂不重启",
+    "restart_allowed_now": false,
+    "install_persistent_startup_setting_allowed_now": false,
+    "automatic_restart_scheduled": false
+  }
+}

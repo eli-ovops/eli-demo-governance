@@ -1,0 +1,85 @@
+{
+  "status": "6/6 已只读接收",
+  "businessExecutionStarted": false,
+  "oldThreadsPreserved": true,
+  "tasks": [
+    {
+      "title": "Pocket Rove PMO｜精简接续",
+      "file": "01_PocketRove产品开发.md",
+      "old": "01a09ef1-3d80-7e41-88b0-9635e91af695",
+      "effort": "medium",
+      "video": false,
+      "result": {
+        "clientThreadId": "client-new-thread:d5b826bd-bd3c-45d3-a94d-91fd7d18fc1c",
+        "hostId": "local"
+      },
+      "threadId": "01a0b333-f200-7522-8a87-80a3fabf8bb5",
+      "status": "已只读接收，idle，等待下一步"
+    },
+    {
+      "title": "Pocket Rove｜创作者筛选接续",
+      "file": "02_创作者筛选.md",
+      "old": "01a0acf3-9e0c-7733-9977-bf3ed25b22c0",
+      "effort": "low",
+      "video": false,
+      "result": {
+        "clientThreadId": "client-new-thread:b8f3a277-cf07-4920-a6e7-9f9c78a1f72b",
+        "hostId": "local"
+      },
+      "threadId": "01a0b333-f200-7522-8a87-80884f848dde",
+      "status": "已只读接收，idle，等待下一步"
+    },
+    {
+      "title": "短视频 PMO｜精简接续",
+      "file": "03_短视频与TikTok.md",
+      "old": "01a08542-c7b7-7780-be54-bc33294dc502",
+      "effort": "medium",
+      "video": true,
+      "result": {
+        "threadId": "01a0b336-58db-77d1-9d31-2eb0d5c406fa",
+        "hostId": "local"
+      },
+      "threadId": "01a0b336-58db-77d1-9d31-2eb0d5c406fa",
+      "status": "已只读接收，idle，等待下一步"
+    },
+    {
+      "title": "Pocket Rove｜邮件合作接续",
+      "file": "04_邮件与合作.md",
+      "old": "01a09a96-7df8-7643-a823-f4dbfa77200f",
+      "effort": "low",
+      "video": false,
+      "result": {
+        "clientThreadId": "client-new-thread:770b1753-078f-418b-b21a-de4cd62ca10d",
+        "hostId": "local"
+      },
+      "threadId": "01a0b337-0ee7-7ed2-a252-b659aad2a323",
+      "status": "已只读接收，idle，等待下一步"
+    },
+    {
+      "title": "周易项目｜精简接续",
+      "file": "05_周易项目.md",
+      "old": "01a0a7f5-1938-7d01-8b61-5bace1bbddd9",
+      "effort": "low",
+      "video": false,
+      "result": {
+        "clientThreadId": "client-new-thread:eea304ed-ecf3-47b0-93f3-ba7dc9646bb3",
+        "hostId": "local"
+      },
+      "threadId": "01a0b339-49af-7853-87db-c69f27d03c8d",
+      "status": "已只读接收，idle，等待下一步"
+    },
+    {
+      "title": "学习 App｜核心验证接续",
+      "file": "06_学习App.md",
+      "old": "01a0add0-c73f-7673-86d2-b6185c5bb846",
+      "effort": "low",
+      "video": false,
+      "result": {
+        "clientThreadId": "client-new-thread:29885593-cf65-46d6-8ed9-5a1a3791263d",
+        "hostId": "local"
+      },
+      "threadId": "01a0b33a-79fb-7942-a3ef-9e8f94a0fad9",
+      "status": "已只读接收，idle，等待下一步"
+    }
+  ]
+}
